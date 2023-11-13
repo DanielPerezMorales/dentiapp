@@ -77,6 +77,9 @@ public class JframeGestionPedidos extends JFrame {
 				JdialogConsultasPedidos buscarPedido = new JdialogConsultasPedidos();
 				buscarPedido.setVisible(true);
 				buscarPedido.setModal(true);
+				//kjfhilgerafihgegihrcgvipersgiugiupfewagifcgipegiargvhièrgivcwegvihgd ciuewg3cfiwgñpcygui83qf83pic8fipgqew3c
+				//dewkiñjdbhliq3hbih<icf3q wiñp3hc ñd wpfwra vñpiwb4gv
+				//wlekjdkxhbqixl	ckhd23wcdbf3lu2ev clhgeq3vculgv <ulshgcxvoylwevcuohw3
 			}
 		});
 		btn_busqueda_materiales.setIcon(new ImageIcon(JframeGestionPedidos.class.getResource("/Iconos/filtrar.png")));
